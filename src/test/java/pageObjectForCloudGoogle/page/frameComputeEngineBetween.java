@@ -1,26 +1,22 @@
 package pageObjectForCloudGoogle.page;
 
+import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
 
-public class frameComputeEngine {
-    @FindBy(xpath =  "//input[@id='input_85']")
-    private WebElement numberOfInstances;
-    @FindBy (xpath =  "//input[@id='input_85']")
-    private WebElement operatingSystem;
-    @FindBy (xpath =  "//input[@id='input_85']")
-    private WebElement vMClass;
-    @FindBy (xpath =  "//input[@id='input_85']")
-    private WebElement valueFromVMClassList;
-    @FindBy (xpath =  "//input[@id='input_85']")
-    private WebElement instanceTypeOnForm;
-    @FindBy (xpath =  "//input[@id='input_85']")
-    private WebElement valueFromInstanceTypeList;
-    @FindBy (xpath =  "//input[@id='input_85']")
-    private WebElement addGPU;
-    @FindBy (xpath =  "//input[@id='input_85']")
-    private WebElement valueFromInstanceTypeList;
-    @FindBy (xpath =  "//input[@id='input_85']")
-    private WebElement addGPU;
+public class frameComputeEngineBetween {
+    private WebDriver driver;
+    @FindBy(id = "myFrame")
+    private WebElement linkToFrame;
 
+    public frameComputeEngineBetween(WebDriver driver) {
+        this.driver = driver;
+        PageFactory.initElements(driver, this);
+    }
+
+    public frameComputeEngine switchToFrame(){
+        driver.switchTo().frame(linkToFrame);
+        return new frameComputeEngine(driver);
+    }
 }

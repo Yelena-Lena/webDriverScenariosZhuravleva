@@ -1,27 +1,167 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="61976fb0-6c11-4c59-affd-4b5916c0fc58" name="Changes" comment="" />
+    <list default="true" id="61976fb0-6c11-4c59-affd-4b5916c0fc58" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ICanWin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ICanWin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pageObjectForCloudGoogle/page/cloudComputeEnginePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pageObjectForCloudGoogle/page/cloudComputeEnginePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pageObjectForCloudGoogle/page/cloudHomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pageObjectForCloudGoogle/page/cloudHomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pageObjectForCloudGoogle/page/cloudSearchPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pageObjectForCloudGoogle/page/cloudSearchPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pageObjectForCloudGoogle/page/emailPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pageObjectForCloudGoogle/page/emailPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pageObjectForCloudGoogle/page/frameComputeEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pageObjectForCloudGoogle/page/frameComputeEngine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pageObjectForCloudGoogle/page/frameComputeEngineBetween.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pageObjectForCloudGoogle/page/frameComputeEngineBetween.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pageObjectForCloudGoogle/page/mailPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pageObjectForCloudGoogle/page/mailPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pageObjectForCloudGoogle/test/HardCore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pageObjectForCloudGoogle/test/HardCore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pageObjectForCloudGoogle/test/HurtMePlenty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pageObjectForCloudGoogle/test/HurtMePlenty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pageObjectForPastebin/page/pastebinHomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pageObjectForPastebin/page/pastebinHomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pageObjectForPastebin/page/pastebinPastePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pageObjectForPastebin/page/pastebinPastePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pageObjectForPastebin/test/BringItOn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pageObjectForPastebin/test/BringItOn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/waits/CustomConditions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/waits/CustomConditions.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2A0FWdytDzPmaXN1y8tWFZNfIbe" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Yelena_Zhuravleva/IdeaProjects/webDriverScenarios/src/test/java/pageObjectForCloudGoogle&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Yelena_Zhuravleva\IdeaProjects\webDriverScenarios\src\test\java\pageObjectForCloudGoogle" />
+      <recent name="C:\Users\Yelena_Zhuravleva\IdeaProjects\webDriverScenarios\src\test\java\pageObjectForPastebin" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pageObjectForCloudGoogle.page" />
+      <recent name="pageObjectForCloudGoogle.test" />
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.HardCore">
+    <configuration name="BringItOn (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="webDriverScenarios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pageObjectForPastebin.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pageObjectForPastebin.test" />
+      <option name="MAIN_CLASS_NAME" value="pageObjectForPastebin.test.BringItOn" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BringItOn.commonSearchTermResultsNotEmpty (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="webDriverScenarios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pageObjectForPastebin.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pageObjectForPastebin.test" />
+      <option name="MAIN_CLASS_NAME" value="pageObjectForPastebin.test.BringItOn" />
+      <option name="METHOD_NAME" value="commonSearchTermResultsNotEmpty" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HardCore" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="webDriverScenarios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pageObjectForCloudGoogle.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pageObjectForCloudGoogle.test" />
+      <option name="MAIN_CLASS_NAME" value="pageObjectForCloudGoogle.test.HardCore" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HurtMePlenty" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="webDriverScenarios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pageObjectForCloudGoogle.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pageObjectForCloudGoogle.test" />
+      <option name="MAIN_CLASS_NAME" value="pageObjectForCloudGoogle.test.HurtMePlenty" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HurtMePlenty.commonSearchTermResultsNotEmpty" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="webDriverScenarios" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="HurtMePlenty" />
+      <option name="METHOD_NAME" value="commonSearchTermResultsNotEmpty" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.HardCore" />
+        <item itemvalue="TestNG.HurtMePlenty" />
+        <item itemvalue="TestNG.BringItOn (1)" />
+        <item itemvalue="TestNG.BringItOn.commonSearchTermResultsNotEmpty (1)" />
+        <item itemvalue="TestNG.HurtMePlenty.commonSearchTermResultsNotEmpty" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -32,5 +172,27 @@
       <updated>1654138632876</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/pageObjectForCloudGoogle/page/cloudSearchPage.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
